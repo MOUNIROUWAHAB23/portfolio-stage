@@ -1,0 +1,321 @@
+
+
+*{
+ padding:0;
+ margin: 0 ;
+ box-sizing: border-box;   
+}
+
+/* info */
+
+.main{
+    background: url(Wahab\ MOUNIROU.jpg)no-repeat;
+    background-size: cover;
+    width:100%;
+    height:100vh;
+
+}
+.main small{
+    color: white;
+}
+
+.main strong{
+    color: blue;
+}
+
+
+
+.main h3 {
+    font: size 4.4rem;
+    font-weight: 700;
+}
+.main h6 {
+   font-size:1.4rem;
+   text-transform: uppercase;
+   line-height: 1;
+   border-bottom: 3px solid blue  ; 
+   width:20%
+}
+.main .bt1 {
+    height: 55px;
+    width: 138px;
+    background-color: blue ;
+    color: white;
+    outline: none;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.main .bt1:hover{
+    background-color: rgb(19, 41, 184);
+     transition: 0.5s;
+}
+.main .bt2 {
+    height: 55px;
+    width: 138px;
+    background-color:transparent;
+    color:blue;
+    outline: none;
+    border: 1px solid blue;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.col-lg-5 strong{
+    color: blue;
+}
+.frontext h3{
+    color:black ;
+}
+
+.col-lg-7 a{
+    color: blue;
+    background-color: transparent;
+}
+.main .bt2:hover{
+    background-color: rgb(19, 38, 184);;
+    /* background-color: rgb(184, 19, 88); */
+     transition: 0.5s;
+     color: white;
+    }
+
+    img {
+        max-width: 80%;
+        max-height: 50%;
+        display: block;
+        margin: auto;
+    }
+
+    .about img {
+     -webkit-box-shadow: 6px 4px 41px -24px black;
+     -moz-box-shadow:   6px 4px 41px -24px black;
+     box-shadow: 6px 4px 41px -24px black;
+    }
+
+    h1{
+        color:blue;
+        font-size: 3rem;
+        font-weight: 900;
+    }
+    .progress {
+        background-color:rgb(223, 219, 219);
+        justify-content: flex-start;
+        border-radius: 50px;
+        align-items: center;
+        position: relative;
+        display: flex;
+        height: 25px;
+        width: 100%;
+       
+    }
+    .pro-value1{
+        animation: load1 3s normal forwards;
+        border-radius: 50px;
+        background-color: blue ;
+        height: 45px;
+        width: 0;
+
+    }
+
+    .pro-value2{
+        animation: load2 3s normal forwards;
+        border-radius: 50px;
+        background-color:blue ;
+        height: 45px;
+        width: 0;
+
+    }
+
+    .pro-value3{
+        animation: load3 3s normal forwards;
+        border-radius: 50px;
+        background-color:blue;
+        height: 45px;
+        width: 0;
+
+    }
+
+    .pro-value4{
+        animation: load4 3s normal forwards;
+        border-radius: 50px;
+        background-color:blue;
+        height: 45px;
+        width: 0;
+
+    }
+   
+    .pro-value5{
+        animation: load5 3s normal forwards;
+        border-radius: 50px;
+        background-color:blue;
+        height: 45px;
+        width: 0;
+
+    }
+  
+    .pro-value6{
+        animation: load6 3s normal forwards;
+        border-radius: 50px;
+        background-color:blue;
+        height: 45px;
+        width: 0;
+
+    }
+
+    .pro-value7{
+        animation: load7 3s normal forwards;
+        border-radius: 50px;
+        background-color:blue;
+        height: 45px;
+        width: 0;
+
+    }
+
+
+    .col-lg-5 img{
+        max-width: 80%;
+        max-height: 100%;
+        display: block;
+        margin: auto;
+    }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    .progress p{
+        color: white;
+        padding: 12px;
+
+    }
+
+    @keyframes load1 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 70%;
+    }
+    
+    }
+
+
+    @keyframes load2 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 75%;
+    }
+    
+    }
+  
+    @keyframes load3 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 80%;
+    }
+    
+    }
+
+
+
+    @keyframes load4 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 95%;
+    }
+    
+    }
+
+    @keyframes load5 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 80%;
+    }
+    
+    }
+
+    @keyframes load6 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 100%;
+    }
+    
+    }
+
+    @keyframes load7 {
+        0%{
+            width: 0;
+        }
+    100%{
+        width: 60%;
+    }
+    
+    }
+
+    .icon-link {
+     color:blue ;
+    }
+
+    .card{
+        border: radius 100px;
+    }
+
+   
+      
+
+        .my-navbar {
+     background-color:blue ;
+          
+        }
+          .btn{
+            background-color:transparent;
+            color:blue;
+            /* background-color:rgba(233,20,109) ; */
+             border-radius: 50px;
+             outline: none;
+    border: 1px solid blue;
+             
+             /* border: none; */
+             font-weight: bold;
+             border-radius: 5px;
+            }
+        
+        
+        
+        
+        
+        
+        
+            label{
+     color:blue ;
+     
+          }
+
+          .btn:hover{
+            background-color: rgb(284, 29, 100);
+             transition: 0.5s;
+        }
+
+        h2{
+            color:blue ;
+        }
+
+
+        .my-coll{
+            /* background-color:rgba(233,20,109) ; */
+               color:blue;
+        }

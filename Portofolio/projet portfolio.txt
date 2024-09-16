@@ -1,0 +1,45 @@
+Mini-Projet : Portfolio Personnel Mobile
+
+Page d'Accueil :
+
+
+Présentez une introduction concise de vous-même.
+Incluez une image de profil.
+Ajoutez des icônes de médias sociaux pour lier vos profils.
+
+
+Section Compétences :
+
+Divisez vos compétences en catégories (par exemple, Langages de Programmation, Frameworks, Outils).
+Utilisez des icônes ou des graphiques pour représenter vos niveaux de compétence.
+
+
+Projet Showcase :
+
+Présentez quelques-uns de vos projets passés.
+Chaque projet doit avoir une image, une brève description et un lien vers le projet ou le code source.
+
+
+Section Expérience :
+
+Liste de manière concise vos expériences professionnelles ou stages.
+Ajoutez une brève description de vos responsabilités et réalisations.
+
+
+Formulaire de Contact :
+
+Intégrez un formulaire simple avec des champs tels que Nom, Email et Message.
+Ajoutez une validation de formulaire côté client (HTML5) pour une expérience utilisateur améliorée.
+
+
+Pied de Page :
+
+Incluez vos coordonnées de base.
+Ajoutez un lien vers votre CV au format PDF.
+
+
+Technologies à Utiliser :
+
+HTML5 pour la structure.
+CSS3 pour le style et la mise en page.
+Bootstrap pour la conception mobile réactive.
